@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/blue0777">
-    <img src="https://github.com/blue0777/Welcome/blob/main/src/wp10842750-alone-anime-pc-wallpapers(1).jpg" width="800"> </a>
+    <img src="https://github.com/blue0777/Welcome/blob/main/src/wp10842750-alone-anime-pc-wallpapers(1).jpg" width="900"> </a>
     </p>
 
 
