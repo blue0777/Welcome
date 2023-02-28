@@ -6,7 +6,7 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=fc7b03&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Cosmic ;Welcome+to+my+GitHub"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE6E1D&width=435&lines=Hello+I+am+Cosmic+;Welcome+To+My+GitHub"
             alt="Typing SVG"
         />
     </a>
@@ -16,9 +16,9 @@
 
 
 # About Me:
--  A passionate Full Stack developer from India.
--  Currently a final year Computer Science and Engineering student.
--  Trying my best to join an Organization soon and increase my skill set while working in IT industery.
+-  A passionate developer from India.
+-  Currently a second year Computer Engineering student.
+-  Trying my best to become best.
 -  Passionate about making open source projects that people would link to use.
 
 
