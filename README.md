@@ -54,7 +54,7 @@
 # How to reach me:
 [![My WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/https://t.me/Sync_0)
-[![MY Instagram](https://img.shields.io/badge/instagram-f69b4.svg?style=for-the-badge&logo=instagram&logoColor=)](https://instagram.com/soham_07778/)<br>
+[![MY Instagram](https://img.shields.io/badge/instagram-FFFFFF.svg?style=for-the-badge&logo=instagram&logoColor=)](https://instagram.com/soham_07778/)<br>
 
 
 #### If you have any queries or suggestions then you can contact me i will be happy to respond. 
